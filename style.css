@@ -10,9 +10,9 @@ body {
 header {
     font-size: 50px;
     text-align: center;
-    border-bottom: dashed 5px rgb(43, 174, 226);
+    border-bottom: dashed 5px rgb(181, 187, 189);
     padding: 30px;
-    color: rgb(41, 39, 41);
+    color: rgb(216, 214, 216);
 }
 
 h1 {
@@ -23,4 +23,12 @@ h1 {
 p {
     font-size: 20px;
     padding-left: 30px;
+}
+
+section {
+    background-color: aliceblue;
+    padding-bottom: 80px;
+padding-top:80px; 
+display:flex;
+justify-content:center;
 }
